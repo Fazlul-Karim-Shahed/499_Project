@@ -1,0 +1,8 @@
+# All dataset link is here
+
+https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text
+
+https://www.kaggle.com/datasets/jarvis11/text-dataset-for-text-emotion-detection
+
+https://www.kaggle.com/code/toygarr/mixup-text-augmentation-in-emotion-detection-task/input
+
